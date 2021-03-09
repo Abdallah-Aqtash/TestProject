@@ -1,0 +1,13 @@
+.FScreen{
+    width:50%;
+    height:220px;
+    display:inline-block;
+}
+
+ .FScreenA{
+    width:50%;
+    height:220px;
+    display:inline-block;
+    margin-left:50%;
+    /* background:blueviolet; */
+} 
